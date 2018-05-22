@@ -1,1 +1,1 @@
-Go clinet is comming soon.
+Go client is comming soon.
